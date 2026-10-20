@@ -1,0 +1,1 @@
+# claude-at-work-scratchpad
